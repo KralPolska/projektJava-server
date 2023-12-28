@@ -1,0 +1,1 @@
+INSERT INTO uzytkownicy (nazwa_uzytkownika, email, haslo, data_rejestracji, rola) VALUES ("Ja","test@email.com","klocek12",NOW(),"Klient");
